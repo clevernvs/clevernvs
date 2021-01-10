@@ -1,8 +1,9 @@
-## Bem-vindo 🤟
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleverton-neves/)](https://www.linkedin.com/in/cleverton-neves/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/clevernvs/)](https://twitter.com/clevernvs)
+## ⚡ Bem-vindo 
 
 Sou Bacharel em Sistemas de Informação e Desenvolvedor Full Stack.
+
+## 👉 Contato
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleverton-neves/)](https://www.linkedin.com/in/cleverton-neves/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/clevernvs/)](https://twitter.com/clevernvs)
 
 ## 💻 Tecnologias
 Atualmente trabalho com <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20" style="max-width:100%;"></img> React e <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20" style="max-width:100%;"></img> Node.js.
