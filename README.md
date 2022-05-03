@@ -1,18 +1,13 @@
-## ⚡ Seja muito bem-vindo(a) ao meu perfil 
+## Sobre 
 
-- ☑️ Analista de Sistemas por formação e Desenvolvedor por vocação.
-- ☑️ Trabalho como Desenvolvedor Full Stack.
-- ☑️ Atualmente com: <img align="center" alt="javascript" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> <img align="center" alt="php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /> 
+Me formei em Sistemas de informação e me tornei desenvolvedor por paixão.
+Iniciei como Desenvolvedor Front-end e atualmente sou Desenvolvedor Full Stack.
+Me deixa muito honrado em tornar mais agil a vida das pessoas e a tecnologia me proporciona isso todos os dias (ou sempre que possível).
 
-##
+### Utilizando atualmente:
+<img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> <img align="center" alt="php" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /> 
 
-<div>
- <a href="https://br.linkedin.com/in/cleverton-neves" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clevernvs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" /> 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham&include_all_commits=true&count_private=true" />
-</div>
-
-##
+### Conhecimento em:
 
 <div style="display: inline_block">
  <br />
@@ -32,10 +27,10 @@
  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </div>
 
-##
+### Meus contatos:
 
 <div>
- <a href="https://www.twitter.com/clevernvs" target="_blank"><img src="https://img.shields.io/badge/Twitter-55E6C1?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+ <a href="https://www.twitter.com/cleverbneves" target="_blank"><img src="https://img.shields.io/badge/Twitter-55E6C1?style=for-the-badge&logo=twitter&logoColor=white" /></a>
  <a href="https://br.linkedin.com/in/cleverton-neves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-55E6C1?style=for-the-badge&logo=linkedin&logoColor=white" />  </a>
  <a href="https://github.com/clevernvs" target="_blank"><img src="https://img.shields.io/badge/GitHub-55E6C1?style=for-the-badge&logo=github&logoColor=white" /></a> 
 </div>
