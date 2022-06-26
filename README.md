@@ -1,7 +1,7 @@
 # Oi, eu sou o Cleverton Neves 
 
-Sou formado Sistemas de informação e me tornei desenvolvedor por paixão.
-Iniciei meu caminho em desenvolvimento como Desenvolvedor Front-end e atualmente sou Desenvolvedor Full Stack.
+Sou formado Sistemas de informação e me tornei desenvolvedor por paixão. <br>
+Iniciei meu caminho em desenvolvimento como Desenvolvedor Front-end e atualmente sou Desenvolvedor Full Stack.<br>
 Fico muito honrado em saber que posso agilizar os processos a vida das pessoas de alguma forma e foi na tecnologia que encontro esse sentimento mais forte todos os dias.
 
 ### Conhecimento em:
