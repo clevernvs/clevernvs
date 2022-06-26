@@ -1,30 +1,35 @@
-## Sobre 
+# Oi, eu sou o Cleverton Neves 
 
-Me formei em Sistemas de informação e me tornei desenvolvedor por paixão.
-Iniciei como Desenvolvedor Front-end e atualmente sou Desenvolvedor Full Stack.
-Me deixa muito honrado em tornar mais agil a vida das pessoas e a tecnologia me proporciona isso todos os dias (ou sempre que possível).
-
-### Utilizando atualmente:
-<img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> <img align="center" alt="php" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /> 
+Sou formado Sistemas de informação e me tornei desenvolvedor por paixão.
+Iniciei meu caminho em desenvolvimento como Desenvolvedor Front-end e atualmente sou Desenvolvedor Full Stack.
+Fico muito honrado em saber que posso agilizar os processos a vida das pessoas de alguma forma e foi na tecnologia que encontro esse sentimento mais forte todos os dias.
 
 ### Conhecimento em:
 
 <div style="display: inline_block">
- <br />
- <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
- <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> 
- <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
- <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> 
- <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /> 
- <img align="center" alt="php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /> 
- <img align="center" alt="codeigniter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" />
- <img align="center" alt="laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
- <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
- <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
- <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
  
- <img align="center" alt="windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
- <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+![JavaScript](https://img.shields.io/badge/-JavaScript-1e272e?style=for-the-badge&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-1e272e?style=for-the-badge&logo=php)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-1e272e?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-1e272e?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-1e272e?style=for-the-badge&logo=laravel)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-1e272e?style=for-the-badge&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-1e272e?style=for-the-badge&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/-Vuejs-1e272e?style=for-the-badge&logo=vue.js)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-1e272e?style=for-the-badge&logo=mysql)&nbsp;
+![MongDB](https://img.shields.io/badge/-MongoDB-1e272e?style=for-the-badge&logo=mongodb)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-1e272e?style=for-the-badge&logo=docker)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-1e272e?style=for-the-badge&logo=amazonaws)&nbsp;
+![Git](https://img.shields.io/badge/-Git-1e272e?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-1e272e?style=for-the-badge&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1e272e?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-1e272e?style=for-the-badge&logoColor=0078D6&logo=windows)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-1e272e?style=for-the-badge&logo=linux)&nbsp;
+
+<!-- ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp; -->
+<!-- ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp; -->
+<!-- ![AzureDevops](https://img.shields.io/badge/-AzureDevops-05122A?style=flat&logoColor=0078D7&logo=azuredevops)&nbsp; -->
+
 </div>
 
 ### Meus contatos:
