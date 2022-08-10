@@ -1,4 +1,4 @@
-# Oi, eu sou o Cleverton Neves 
+# Oi, me chamo Cleverton Neves 
 
 Sou formado Sistemas de informação e me tornei desenvolvedor por paixão. <br>
 Iniciei meu caminho em desenvolvimento como Desenvolvedor Front-end e atualmente sou Desenvolvedor Full Stack.<br>
