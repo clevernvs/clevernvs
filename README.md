@@ -4,7 +4,7 @@ Sou formado Sistemas de informação e me tornei desenvolvedor por paixão. <br>
 Iniciei meu caminho em desenvolvimento como Desenvolvedor Front-end e atualmente sou Desenvolvedor Full Stack.<br>
 Fico muito honrado em saber que posso agilizar os processos a vida das pessoas de alguma forma e foi na tecnologia que encontro esse sentimento mais forte todos os dias.
 
-### Conhecimento em:
+### Conhecimentos em:
 
 <div style="display: inline_block">
  
@@ -17,12 +17,13 @@ Fico muito honrado em saber que posso agilizar os processos a vida das pessoas d
 ![React](https://img.shields.io/badge/-React-1e272e?style=for-the-badge&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vuejs-1e272e?style=for-the-badge&logo=vue.js)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-1e272e?style=for-the-badge&logo=mysql)&nbsp;
-![MongDB](https://img.shields.io/badge/-MongoDB-1e272e?style=for-the-badge&logo=mongodb)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e272e?style=for-the-badge&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-1e272e?style=for-the-badge&logo=mongodb)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-1e272e?style=for-the-badge&logo=docker)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-1e272e?style=for-the-badge&logo=amazonaws)&nbsp;
+<!-- ![AWS](https://img.shields.io/badge/-AWS-1e272e?style=for-the-badge&logo=amazonaws)&nbsp; -->
 ![Git](https://img.shields.io/badge/-Git-1e272e?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-1e272e?style=for-the-badge&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1e272e?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1e272e?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp; -->
 ![Windows](https://img.shields.io/badge/-Windows-1e272e?style=for-the-badge&logoColor=0078D6&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-1e272e?style=for-the-badge&logo=linux)&nbsp;
 
