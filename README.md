@@ -1,8 +1,11 @@
-# Oi, me chamo Cleverton Neves 
+# Ola, me chamo Cleverton Neves. 
 
-Sou formado Sistemas de informação e me tornei desenvolvedor por paixão. <br>
-Iniciei meu caminho em desenvolvimento como Desenvolvedor Front-end e atualmente sou Desenvolvedor Full Stack.<br>
-Fico muito honrado em saber que posso agilizar os processos a vida das pessoas de alguma forma e foi na tecnologia que encontro esse sentimento mais forte todos os dias.
+- Sou formado com Bacharelado em <b> Sistemas de Informação </b>.
+- Possuo pós-graduação em <b> Engenharia de Software Ágil </b>. 
+- Trabalho como <b> Desenvolvedor Full Stack </b>.
+
+Me tornei desenvolvedor por paixão em criar soluções para as pessoas. <br>
+Fico muito honrado em saber que posso agilizar e tornar mais simples processos pertinentes a vida das pessoas. E é na tecnologia que encontro esse sentimento mais forte todos os dias.
 
 ### Conhecimentos em:
 
@@ -36,8 +39,8 @@ Fico muito honrado em saber que posso agilizar os processos a vida das pessoas d
 ### Meus contatos:
 
 <div>
- <a href="https://www.twitter.com/cleverbneves" target="_blank"><img src="https://img.shields.io/badge/Twitter-55E6C1?style=for-the-badge&logo=twitter&logoColor=white" /></a>
- <a href="https://br.linkedin.com/in/cleverton-neves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-55E6C1?style=for-the-badge&logo=linkedin&logoColor=white" />  </a>
- <a href="https://github.com/clevernvs" target="_blank"><img src="https://img.shields.io/badge/GitHub-55E6C1?style=for-the-badge&logo=github&logoColor=white" /></a> 
+ <a href="https://www.twitter.com/cleverbneves" target="_blank"><img src="https://img.shields.io/badge/Twitter-55E6C1?style=for-the-badge&logo=twitter&logoColor=0a3d62" /></a>
+ <a href="https://br.linkedin.com/in/cleverton-neves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-55E6C1?style=for-the-badge&logo=linkedin&logoColor=0a3d62" />  </a>
+ <a href="https://github.com/clevernvs" target="_blank"><img src="https://img.shields.io/badge/GitHub-55E6C1?style=for-the-badge&logo=github&logoColor=0a3d62" /></a> 
 </div>
 
