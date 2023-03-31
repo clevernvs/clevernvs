@@ -14,7 +14,7 @@
 
 # Stacks:
 
-<div style="display: inline_block">
+<div style="display: inline_block;">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1e272e?style=for-the-badge&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-1e272e?style=for-the-badge&logo=php)&nbsp;
@@ -44,9 +44,9 @@
 
 # Contatos:
 
-<div>
- <a href="https://www.twitter.com/cleverbneves" target="_blank"><img src="https://img.shields.io/badge/Twitter-55E6C1?style=for-the-badge&logo=twitter&logoColor=0a3d62" /></a>
- <a href="https://br.linkedin.com/in/cleverton-neves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-55E6C1?style=for-the-badge&logo=linkedin&logoColor=0a3d62" />  </a>
- <a href="https://github.com/clevernvs" target="_blank"><img src="https://img.shields.io/badge/GitHub-55E6C1?style=for-the-badge&logo=github&logoColor=0a3d62" /></a> 
+<div> 
+  <a href="https://www.twitter.com/cleverbneves" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=2EFFAB" /></a>
+ <a href="https://br.linkedin.com/in/cleverton-neves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=2EFFAB" />  </a>
+ <a href="https://github.com/clevernvs" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=2EFFAB" /></a> 
 </div>
 
