@@ -7,12 +7,13 @@
 </ul>
  
 <p>
- Desde muito cedo sempre gostei de criar soluções e melhorar processos e produtos.
- Me tornei um desenvolvedor justamente por unir essas duas paixão junto com a terceira, que é tecnologia.
- Fico muito honrado em saber que posso criar soluções e que essas soluções podem impactar a vida das pessoas e torná-la mais simples e eficiênte.
+ Amo de criar soluções. 
+ Observo tudo em minha volta e sempre penso em consigo melhorar os processos e os produtos de tudo que eu vejo minha pela frente.
+ E então foi assim que me tornei desenvolvedor. Justamente por unir essas duas paixões à uma terceira: A tecnologia.
+ Quando consigo solucionar algum problema, me sinto honrado em proporcionar tal solução para tal necessidade. Saber que posso impactar a vida das pessoas e torná-la mais simples e eficiênte é gratificante.
 </p>
 
-<h1> Stacks </h1> 
+<h1> Stacks: </h1> 
  
 <div align="center">
 
@@ -49,13 +50,15 @@
 
 </div>
 
-# Contatos:
+<h1> Contatos: </h1> 
 
-<div align="center"> 
+<div align="center">
+ 
  <a href="https://br.linkedin.com/in/cleverton-neves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=2EFFAB" /></a>
  <a href="https://www.twitter.com/cleverbneves" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=2EFFAB" /></a>
  <a href="https://github.com/clevernvs" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=2EFFAB" /></a> 
  <a href="https://gitlab.com/clevernvs" target="_blank"><img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=2EFFAB" /></a>
+ 
 </div>
 
 
