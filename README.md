@@ -22,15 +22,16 @@
 ![HTML](https://img.shields.io/badge/-HTML-1e272e?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1e272e?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-1e272e?style=for-the-badge&logo=laravel)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-1e272e?style=for-the-badge&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-1e272e?style=for-the-badge&logo=react)&nbsp;
-![Vue](https://img.shields.io/badge/-Vuejs-1e272e?style=for-the-badge&logo=vue.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-1e272e?style=for-the-badge&logo=node.js)&nbsp;
+![NestJs](https://img.shields.io/badge/-NESTJS-1e272e?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp; 
 ![MySQL](https://img.shields.io/badge/-MySQL-1e272e?style=for-the-badge&logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e272e?style=for-the-badge&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1e272e?style=for-the-badge&logo=mongodb)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-1e272e?style=for-the-badge&logo=docker)&nbsp;
 
 <!--
+![Vue](https://img.shields.io/badge/-Vuejs-1e272e?style=for-the-badge&logo=vue.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-1e272e?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-1e272e?style=for-the-badge&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-1e272e?style=for-the-badge&logo=gitlab)&nbsp;
@@ -39,7 +40,6 @@
 ![Python](https://img.shields.io/badge/-Python-1e272e?style=for-the-badge&logo=python)&nbsp; 
 ![Django](https://img.shields.io/badge/-Django-1e272e?style=for-the-badge&logo=django)&nbsp; 
 ![NEXTJS](https://img.shields.io/badge/-NEXTJS-1e272e?style=for-the-badge&logo=next.js)&nbsp;
-![NESTJS](https://img.shields.io/badge/-NESTJS-1e272e?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp; 
 ![AWS](https://img.shields.io/badge/-AWS-1e272e?style=for-the-badge&logo=amazonaws)&nbsp; 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1e272e?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-1e272e?style=for-the-badge&logo=jenkins)&nbsp; 
