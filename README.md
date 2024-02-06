@@ -55,7 +55,7 @@
 <div align="center">
  
  <a href="https://br.linkedin.com/in/cleverton-neves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=2EFFAB" /></a>
- <a href="https://www.twitter.com/cleverbneves" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=2EFFAB" /></a>
+ <a href="https://www.twitter.com/cleverbneves" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=2EFFAB" /></a>
  <a href="https://github.com/clevernvs" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=2EFFAB" /></a> 
  <a href="https://gitlab.com/clevernvs" target="_blank"><img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=2EFFAB" /></a>
  
