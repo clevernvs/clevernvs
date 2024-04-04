@@ -1,19 +1,17 @@
-<h1 align="center"> Olá, me chamo Cleverton Neves. </h1> 
+<div align="center">
+<h1> Olá, me chamo Cleverton Neves e sou Engenheiro de Software. </h1> 
+</div>
 
-<ul>
- <li>Bacharel em <b>Sistemas de Informação</b>.</li>
- <li>Pós-graduado em <b>Engenharia de Software Ágil</b>.</li> 
- <li>Trabalhando como <b>Desenvolvedor de Software - Full Stack</b>.</li>
-</ul>
- 
 <p>
- Amo de desenvolver soluções. 
- Observo tudo em minha volta e sempre penso em consigo melhorar os processos e os produtos de tudo que eu vejo minha pela frente.
- E então foi assim que me tornei desenvolvedor. Justamente por unir essas duas paixões à uma terceira: A tecnologia.
- Quando consigo solucionar algum problema, me sinto honrado em proporcionar tal solução para tal necessidade. Saber que posso impactar a vida das pessoas e torná-la mais simples e eficiênte é gratificante.
+ Amo de desenvolver soluções.
+ 
+ Observo constantemente tudo a minha volta e sempre penso em conseguir melhorar e automatizar processos, serviços e os produtos de tudo que eu vejo.
+ Unindo essas qualidades com a tecnologia, me tornei então Engenheiro de Software.
+ 
+ Sinto-me honrado em proporcionar "tal solução" para "tal finalidade" que atenda "tal necessidade". Impactar a vida das pessoas de forma positiva e torná-las simples e mais eficiênte é extremamente gratificante.
 </p>
 
-<h1> Stacks: </h1> 
+<h1> Minhas stacks: </h1> 
  
 <div align="center">
 
@@ -50,7 +48,7 @@
 
 </div>
 
-<h1> Contatos: </h1> 
+<h1> Meus contatos: </h1> 
 
 <div align="center">
  
