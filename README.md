@@ -1,18 +1,12 @@
-<div align="center">
-<h1> Olá, me chamo Cleverton Neves e sou Engenheiro de Software. </h1> 
-</div>
 
-<p>
- Amo de desenvolver soluções.
- 
- Observo constantemente tudo a minha volta e sempre penso em conseguir melhorar e automatizar processos, serviços e os produtos de tudo que eu vejo.
- Unindo essas qualidades com a tecnologia, me tornei então Engenheiro de Software.
- 
- Sinto-me honrado em proporcionar "tal solução" para "tal finalidade" que atenda "tal necessidade". Impactar a vida das pessoas de forma positiva e torná-las simples e mais eficiênte é extremamente gratificante.
-</p>
+<ul>
+ <li>Formado em Sistemas de Informação.</li>
+ <li>Pós-graduado em Engenharia de Software.</li>
+ <li>Pós-graduado em Gestão da Tecnologia da Informação e Transformação Digital.</li>
+ <li>Pós-graduado em Inteligência Artificial para Negócios.</li>
+</ul>
 
 <h1> Minhas stacks: </h1> 
- 
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1e272e?style=for-the-badge&logo=javascript)&nbsp;
